@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import {RedModule} from 'red';
 import {GreenModule} from '@company/greenmodule';
 import {HelloWorld} from 'hwrld';
+import {YellowModule} from '@company/yellowmodule';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import {HelloWorld} from 'hwrld';
   imports: [
     RedModule,
     GreenModule,
-    BrowserModule
+    BrowserModule,
+    YellowModule
   ],
   providers: [],
   bootstrap: [AppComponent]

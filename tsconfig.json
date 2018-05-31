@@ -18,6 +18,9 @@
       "@company/greenmodule": [
         "./common/simple-angular-libs/green"
       ],
+      "@company/yellowmodule": [
+        "./common/simple-angular-libs/yellow"
+      ],
       "@company/colors": [
         "./common/typescript/colors"
       ],
