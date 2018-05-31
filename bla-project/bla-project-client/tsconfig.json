@@ -17,6 +17,9 @@
       "dom"
     ],
     "paths": {
+      "@company/colors": [
+        "../../common/typescript/colors"
+      ],
       "red": [
         "../../common/angular-libs/dist/red"
       ],
