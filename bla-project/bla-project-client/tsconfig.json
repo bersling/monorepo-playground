@@ -1,7 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "../../",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
@@ -18,13 +18,13 @@
     ],
     "paths": {
       "@company/colors": [
-        "../../common/typescript/colors"
+        "./common/typescript/colors"
       ],
       "red": [
-        "../../common/angular-libs/dist/red"
+        "./common/angular-libs/dist/red"
       ],
       "red/*": [
-        "../../common/angular-libs/dist/red/*"
+        "./common/angular-libs/dist/red/*"
       ]
     }
   }
