@@ -10,7 +10,7 @@ import {RED} from '@company/colors';
   `,
   styles: []
 })
-export class RedComponent implements OnInit {
+export class GreenComponent implements OnInit {
 
   color = RED;
 

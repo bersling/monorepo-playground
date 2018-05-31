@@ -1,8 +1,6 @@
 {
-  "extends": "../../tsconfig.json",
-  "compileOnSave": false,
   "compilerOptions": {
-    "outDir": "./dist/out-tsc",
+    "baseUrl": "./",
     "sourceMap": true,
     "declaration": false,
     "moduleResolution": "node",
@@ -15,6 +13,17 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@company/colors": [
+        "./common/typescript/colors"
+      ],
+      "red": [
+        "./common/angular-libs/dist/red"
+      ],
+      "red/*": [
+        "./common/angular-libs/dist/red/*"
+      ]
+    }
   }
 }
