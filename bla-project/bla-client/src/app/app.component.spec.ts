@@ -1,8 +1,10 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import {CUSTOM_ELEMENTS_SCHEMA, NO_ERRORS_SCHEMA} from '@angular/core';
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
+      schemas: [ CUSTOM_ELEMENTS_SCHEMA, NO_ERRORS_SCHEMA ],
       declarations: [
         AppComponent
       ],
@@ -22,6 +24,6 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to bla-project-client!');
+    expect(compiled.querySelector('h1').textContent).toContain('I am a cool project');
   }));
 });

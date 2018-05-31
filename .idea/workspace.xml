@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc69a2fa-b3e8-47c7-b05a-c509ec4db33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bla-project/bla-server/SomeDerpyBackend.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/simple-angular-libs/yellow/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/e2e/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/e2e/src/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/assets/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/browserslist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/src/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/src/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bla-project/bla-project-client/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/bla-project/bla-client/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/typescript/colors/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/common/typescript/colors/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,13 +15,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/app/app.module.ts">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +45,7 @@
       <find>^6.0.3</find>
       <find>Green</find>
       <find>green</find>
+      <find>typescript</find>
     </findStrings>
     <replaceStrings>
       <replace>^5.0.3</replace>
@@ -133,7 +107,6 @@
         <option value="$PROJECT_DIR$/common/simple-angular-libs/green/green.component.ts" />
         <option value="$PROJECT_DIR$/bla-project/bla-project-client/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/blub-client/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/common/simple-angular-libs/yellow/index.ts" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
         <option value="$PROJECT_DIR$/common/typescript/colors/index.ts" />
@@ -141,6 +114,8 @@
         <option value="$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.module.ts" />
         <option value="$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/bla-project/bla-client/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -194,27 +169,23 @@
             <path>
               <item name="monorepo-playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="monorepo-playground" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monorepo-playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="monorepo-playground" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="simple-angular-libs" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="monorepo-playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="monorepo-playground" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="simple-angular-libs" type="462c0819:PsiDirectoryNode" />
-              <item name="green" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="monorepo-playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="monorepo-playground" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="simple-angular-libs" type="462c0819:PsiDirectoryNode" />
-              <item name="yellow" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bla-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,12 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527791611281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="more nested stuff">
+      <created>1527792694454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527792694454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-180" width="2560" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="SvgViewer" order="3" />
@@ -402,33 +379,10 @@
     <MESSAGE value="global tsconfig, it's crazy." />
     <MESSAGE value="crazy mono repo style angular stuffzzzz" />
     <MESSAGE value="add external dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="add external dependency" />
+    <MESSAGE value="more nested stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="more nested stuff" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/green/green.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/typescript/colors/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/green/green.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -568,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -597,20 +544,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/green/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bla-project/bla-client/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/green/green.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -653,28 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="78" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -692,24 +603,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/yellow/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blub-client/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -745,10 +642,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/yellow/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/yellow/yellow.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="14" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bla-project/bla-client/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blub-client/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/simple-angular-libs/green/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bla-project/bla-client/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
         </state>
       </provider>

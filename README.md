@@ -10,7 +10,7 @@ The core ideas are the following:
 
 Advantages:
 - Only update Angular once, works for all projects
-- No complicated cycle like compile & reload. Just edit code and it has hot reloads.
+- No complicated cycle like compile & reload & lerna. Just edit code and it has hot reloads.
 
-Disadvantages
-- If you want to make a public library from one part, it's hard. Is it though?
+Disadvantages:
+- It becomes a mess to track which application actually uses which dependencies. But then again, let's say the day comes when you need to untrack it, then be its so and you can do it then...
