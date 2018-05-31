@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "red": [
+        "../../common/angular-libs/dist/red"
+      ],
+      "red/*": [
+        "../../common/angular-libs/dist/red/*"
+      ]
+    }
   }
 }
