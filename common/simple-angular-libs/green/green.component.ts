@@ -1,18 +1,18 @@
 import { Component, OnInit } from '@angular/core';
-import {RED} from '@company/colors';
+import {GREEN, RED} from '@company/colors';
 
 @Component({
-  selector: 'red',
+  selector: 'green',
   template: `
-    <p [ngStyle]="{background: red}">
-      red works!
+    <p [ngStyle]="{background: color}">
+      green works!
     </p>
   `,
   styles: []
 })
 export class GreenComponent implements OnInit {
 
-  color = RED;
+  color = GREEN;
 
   constructor() { }
 

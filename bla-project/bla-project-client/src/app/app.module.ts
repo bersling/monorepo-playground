@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {RedModule} from 'red';
+import {GreenModule} from '@company/greenmodule';
 
 @NgModule({
   declarations: [
@@ -10,6 +11,7 @@ import {RedModule} from 'red';
   ],
   imports: [
     RedModule,
+    GreenModule,
     BrowserModule
   ],
   providers: [],

@@ -15,6 +15,9 @@
       "dom"
     ],
     "paths": {
+      "@company/greenmodule": [
+        "./common/simple-angular-libs/green"
+      ],
       "@company/colors": [
         "./common/typescript/colors"
       ],
