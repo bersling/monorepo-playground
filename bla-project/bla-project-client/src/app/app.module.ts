@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import {RedModule} from 'red';
 import {GreenModule} from '@company/greenmodule';
+import {HelloWorld} from 'hwrld';
 
 @NgModule({
   declarations: [
@@ -17,4 +18,8 @@ import {GreenModule} from '@company/greenmodule';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+  constructor() {
+    HelloWorld.sayHello();
+  }
+}
