@@ -2,7 +2,7 @@
 
 ## Angular
 
-This repo showcases some **crazy** ideas how to build Angular monorepos.
+This repo showcases some ideas how to build Angular monorepos.
 The core ideas are the following:
 - One package.json at the root of the repository. This installs a central version of angular.
 - One tsconfig.json at the root of the repo. This declares the baseUrl and paths.
