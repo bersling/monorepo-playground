@@ -7,9 +7,9 @@ addons:
 
 install:
   - npm i
-  - npm i -g @angular/cli
 
 script:
   - cd bla-project/bla-client
+  - npm i
   - npm test -- --watch=false
 

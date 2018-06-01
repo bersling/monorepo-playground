@@ -12,5 +12,8 @@
   "private": true,
   "dependencies": {
     "hwrld": "^1.0.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^6.0.7"
   }
 }
