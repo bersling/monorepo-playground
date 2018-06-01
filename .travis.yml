@@ -11,5 +11,5 @@ install:
 
 script:
   - cd bla-project/bla-client
-  - npm test
+  - npm test -- --watch=false
 
